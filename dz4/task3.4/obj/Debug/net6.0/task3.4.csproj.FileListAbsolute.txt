@@ -1,0 +1,15 @@
+D:\DZ\dz2-c-\dz4\task3.4\bin\Debug\net6.0\task3.4.exe
+D:\DZ\dz2-c-\dz4\task3.4\bin\Debug\net6.0\task3.4.deps.json
+D:\DZ\dz2-c-\dz4\task3.4\bin\Debug\net6.0\task3.4.runtimeconfig.json
+D:\DZ\dz2-c-\dz4\task3.4\bin\Debug\net6.0\task3.4.dll
+D:\DZ\dz2-c-\dz4\task3.4\bin\Debug\net6.0\task3.4.pdb
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.csproj.AssemblyReference.cache
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.AssemblyInfoInputs.cache
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.AssemblyInfo.cs
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.csproj.CoreCompileInputs.cache
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.dll
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\refint\task3.4.dll
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.pdb
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\task3.4.genruntimeconfig.cache
+D:\DZ\dz2-c-\dz4\task3.4\obj\Debug\net6.0\ref\task3.4.dll
