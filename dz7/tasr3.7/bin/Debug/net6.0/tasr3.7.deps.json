@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tasr3.7/1.0.0": {
+        "runtime": {
+          "tasr3.7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tasr3.7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
